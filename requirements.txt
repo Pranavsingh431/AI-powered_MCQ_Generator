@@ -9,4 +9,5 @@ huggingface_hub
 pypdf
 python-dotenv
 PyPDF2
+pdfplumber
 -e .
