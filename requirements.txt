@@ -10,4 +10,5 @@ pypdf
 python-dotenv
 PyPDF2
 pdfplumber
+langchain_google_genai
 -e .
