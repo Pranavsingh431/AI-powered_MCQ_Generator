@@ -1,0 +1,12 @@
+langchain
+streamlit
+pandas
+numpy
+transformers
+accelerate
+bitsandbytes
+huggingface_hub
+pypdf
+python-dotenv
+PyPDF2
+-e .
